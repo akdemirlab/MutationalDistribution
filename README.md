@@ -70,7 +70,7 @@ python MutLoadCompare.py -a CancerA.bedGraph -b CancerB.bedGraph -o output
 
 ## Input Files <a name="inputfiles"></a>
 
-We provided example input files in the repo. Please check the structure of these examples to prepare input files. 
+We provided example input files in this repository. Please check the structure of these examples to prepare input files. 
 
 ## BedGraph
 
