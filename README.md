@@ -41,6 +41,8 @@ Example Usage:
 
 python MutationDistribution.py -f folderName -d domains.txt -s signatureCont.txt -o output
 
+**I will add input file format information for this script, please check back in a while if you plan to use this script.
+
 <figure>
   <img src="examplePlots/Signature-Slope.png" alt="Signature Activity to Distribution">
 </figure>
