@@ -6,6 +6,8 @@ Requirements:
 
 Python 2.7; Numpy; Scipy; Matplotlib; Pybedtools; Seaborn
 
+If you use these scripts in your studies, please cite our publication in Nature Genetics https://www.nature.com/articles/s41588-020-0708-0)
+
 ## Mutation Distribution Analysis
 
 This script -by default- plots mutation load patterns across given chromatin regions.  
